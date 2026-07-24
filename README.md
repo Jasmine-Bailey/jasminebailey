@@ -1,4 +1,4 @@
-# jasminebailey.github.io[Uploading index (1).html…]()
+# jasminebailey.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
