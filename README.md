@@ -365,8 +365,8 @@ footer{position:relative;overflow:hidden}
     <div class="card tint-rose rv">
       <span class="tag rose">Key Information</span>
       <dl class="kinfo">
-        <div><dt>Registered Teacher</dt><dd>R307449</dd></div>
-        <div><dt>PNET Candidate</dt><dd>#P18HK311</dd></div>
+        <div><dt>Registered Teacher</dt><dd></dd></div>
+        <div><dt>PNET Candidate</dt><dd></dd></div>
         <div><dt>BLNST</dt><dd>Pass (Jun 2024)</dd></div>
         <div><dt>SCRC</dt><dd>Valid until Mar 2029</dd></div>
         <div><dt>Child Protection Course</dt><dd>Completed 2025</dd></div>
@@ -376,7 +376,7 @@ footer{position:relative;overflow:hidden}
       </dl>
       <div class="contact-chips">
         <a class="chip" href="mailto:jasbailey.is@gmail.com">jasbailey.is@gmail.com</a>
-        <a class="chip" href="tel:+85297570644">+852 9757-0644</a>
+        
       </div>
     </div>
     <div>
