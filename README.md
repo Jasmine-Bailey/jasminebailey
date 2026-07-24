@@ -721,7 +721,7 @@ footer{position:relative;overflow:hidden}
     </div>
     <div class="foot-right">
       <a href="mailto:jasbailey.is@gmail.com">jasbailey.is@gmail.com</a>
-      <a href="tel:+85297570644">+852 9757-0644</a>
+     
     </div>
     <div class="credit">
       <span>© <span id="yr"></span> Jasmine P.R. Bailey</span>
